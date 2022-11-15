@@ -4,7 +4,7 @@
 
 **Stage 1:** Proposal
 
-A slow paced game in which the player drifts through space and sees different sightes of planets and stars. The player can interact with the planets and stars to gain resources, achievements, knowledge.
+A slow paced game in which the player drifts through space and sees different sights of planets and stars. The player can interact with the planets and stars to gain resources, achievements, knowledge.
 
 A proposal for a project requires at least three students,
 with at least one student from each block! (This will require
